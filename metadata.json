@@ -1,0 +1,7 @@
+{
+  "name": "Godhra City Life - 3D Open World",
+  "description": "Three Friends. One City. Their Story. A 3D third-person open-world Indian city-life adventure game prototype featuring Hemang, Vraj, and JD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
